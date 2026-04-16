@@ -67,7 +67,7 @@
 
 ### 主な開発事例
 - Python学習サイト（[PyStarUp](https://pystarup.com/)）
-- ディベート型AIチャットボット（AI同士の対話チャット）
+- ディベート型AIチャットボット（[ai-discussion-theater](https://github.com/kazuSeko/ai-discussion-theater)）
 - X Auto Post（PyStarUp運営に利用）
 - RAGを活用した健康アドバイスAIエージェント（開発中）
 - タイマー付きタスク管理スマホアプリ（開発中）
